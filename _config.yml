@@ -1,1 +1,4 @@
 name: Silvia Cardenas
+markdown: kramdown
+
+theme: jekyll-theme-minimal
